@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 
 
 ## MainActivity.java:
-
+```
 package com.example.tc;
 import android.os.Bundle;
 import android.os.Handler;
@@ -75,9 +75,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -109,10 +109,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 ## Output
-
-
+![image](https://github.com/gunasekhar159/SkillAss-01/assets/95043391/b6bd62f8-2e1e-47b0-a750-73c8e58ebd68)
+![image](https://github.com/gunasekhar159/SkillAss-01/assets/95043391/4970d80d-ef76-4bda-a4f4-c4314458dd0c)
 
 ## Result:
 Thus a Simple Android Creation to create an Thread synchronization using Android Studio was developed and executed successfully.
